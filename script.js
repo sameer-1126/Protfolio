@@ -498,6 +498,6 @@ if(footer){
 
 
     footer.innerHTML =
-    `© ${year} Krishna Akash PV. All Rights Reserved.`;
+    `© ${year} Shaik Mahaboob Sameer. All Rights Reserved.`;
 
 }
